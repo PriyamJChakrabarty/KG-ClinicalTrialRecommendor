@@ -7,7 +7,7 @@
 
 ## 🌟 Project Overview
 
-This repository hosts our innovative project developed for the NEST 2025 Hackathon. We use semantic technology and knowledge graphs to enhance clinical trial recommendations. Our system processes and retrieves clinical trials to offer strategic insights and effective recommendations.
+This repository hosts our innovative project. We use semantic technology and knowledge graphs to enhance clinical trial recommendations. Our system processes and retrieves clinical trials to offer strategic insights and effective recommendations.
 
 ---
 
