@@ -2,7 +2,6 @@
 
 
 
-**Advancing to the semifinals of the Novartis-sponsored NEST 2025 Hackathon, this project uses AI to transform clinical trial design processes by providing advanced recommendations.**
 
 ---
 
